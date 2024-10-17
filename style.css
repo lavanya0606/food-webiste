@@ -364,15 +364,7 @@ a{
     color: black !important;
 }
 .member i{
-    font-size: 1.5em;
-    margin: 0px 5px;
-}
-.member:hover{
-    background-color: #e75b1e;
-    color: white !important;
-}
-.member p:hover{
-    color: white !important;
+    font-size: 1.2em;
 }
 .member img:hover{
      filter: brightness(0.4);
